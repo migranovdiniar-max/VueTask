@@ -22,7 +22,7 @@ async function submit() {
   form.model = ""
   form.color = ""
   form.price = 0
-}
+} 
 </script>
 
 <template>
